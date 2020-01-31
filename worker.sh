@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo su -
 swapoff -a
 hostnamectl set-hostname worker1
